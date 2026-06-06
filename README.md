@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## 🚀 Live Demo
 
-
+https://yashbhardwajportfolio.vercel.app/
 
 ## 👨‍💻 About Me
 
@@ -44,11 +44,11 @@ I am Yash Bhardwaj, a B.Tech CSE student at ABES Engineering College with an int
 
 ## 📫 Contact
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub:   https://github.com/yashbhardwaj2005
 
-LinkedIn: Add your LinkedIn link
+LinkedIn: https://www.linkedin.com/in/yash-bhardwaj-engineer/
 
-Email: your-email@example.com
+Email:    yashbhardwaj509@gmail.com
 
 ---
 
